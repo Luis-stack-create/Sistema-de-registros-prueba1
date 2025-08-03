@@ -3,3 +3,5 @@
 
 Para ejecutar el sistema, debes iniciar:
 ´´´´NMP install react´´´´
+
+Sistema de Registro 2
